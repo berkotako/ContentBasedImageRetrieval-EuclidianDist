@@ -8,7 +8,7 @@ doku bilgisine göre benzerlerinin bulunması
 a. HSV uzayında H(Hue) değerine göre renk histogramı hesaplama.
 b. RGB uzayında R, G ve B bileşenlerinin ayrı ayrı histogramlarını hesaplama.
 
-2.Normalization -> 0-1 Normalization
+2.Normalization -> Min-Max Normalization
 
 3.Test Aşaması
 a. Benzerlik ölçümlerinde L2 Distance kullanılmıştır.
